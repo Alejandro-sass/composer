@@ -1,0 +1,16 @@
+{
+    "name": "que-lala",
+    "description": "Esto es un procyeto de prueba composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alejandro-sass",
+            "email": "alejandrocorro27@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "symfony/http-foundation": "^5.3"
+    }
+}
